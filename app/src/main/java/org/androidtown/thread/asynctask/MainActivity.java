@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     ProgressBar progress;
     BackgroundTask task;
     int value;
-    int aaa;
+    int bbb;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
